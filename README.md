@@ -1,2 +1,2 @@
-# LessNever-AI
-LessNever AI is a smart chatbot designed for modern websites. It helps businesses automate customer support, answer FAQs, and guide users with real-time responses. Built with AI, it delivers human-like conversations, improves engagement, and enhances user experience—making your website more interactive and customer-friendly.
+# Chat_bot
+A chatbot is an AI-powered tool that simulates human conversation, typically through text or voice. Used in websites and apps, it helps users by answering questions, offering guidance, or providing customer support. Chatbots enhance user engagement, streamline service, and can learn over time for more accurate, personalized interactions.
